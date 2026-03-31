@@ -2,10 +2,10 @@
 
 ## 👨‍🎓 Student Details
 - **Name:** Shivam Rathore  
-- **Registration Number:** [Your Reg No.]  
-- **Branch:** [Your Branch]  
-- **Year:** [Your Year]  
-- **Course:** CSE0001 – Digital Literacy  
+- **Registration Number:** 25BCE11104 
+- **Branch:** CSE(Core) 
+- **Year:** 1st Year 
+- **Course Code:** CSE0001 
 
 ---
 
